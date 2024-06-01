@@ -34,6 +34,8 @@ To add your MongoDB connection string and secret key to the project, follow thes
 1. Open the `config/default.json` file in your project directory.
 2. Locate the `mongoURI` field and replace the placeholder value with your MongoDB connection string.
 
+### CREATE .ENV
+create your .env file containing your mongourl,secret key and port
 
 Access Swagger UI:
 Open your web browser and navigate to http://localhost:3000 to access the Swagger UI and explore your API documentation.
