@@ -24,6 +24,17 @@ Follow these steps to get started with the Swagger project:
    ```bash
     cd swagger-app
     npm install
+
+## Add MongoDB Connection and Secret Key
+
+To add your MongoDB connection string and secret key to the project, follow these steps:
+
+### MongoDB Connection String
+
+1. Open the `config/default.json` file in your project directory.
+2. Locate the `mongoURI` field and replace the placeholder value with your MongoDB connection string.
+
+
 Access Swagger UI:
 Open your web browser and navigate to http://localhost:3000 to access the Swagger UI and explore your API documentation.
 
