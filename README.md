@@ -38,7 +38,7 @@ To add your MongoDB connection string and secret key to the project, follow thes
 create your .env file containing your mongourl,secret key and port
 
 Access Swagger UI:
-Open your web browser and navigate to http://localhost:3000 to access the Swagger UI and explore your API documentation.
+Open your web browser and navigate to http://localhost:3000/api-docs/ to access the Swagger UI and explore your API documentation.
 
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
